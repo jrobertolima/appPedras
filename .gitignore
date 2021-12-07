@@ -1,3 +1,7 @@
 .ipynb_*/*.*
 .ipynb_*
+*.jpg
+*.jpeg
+*.*~
+.*~
 
